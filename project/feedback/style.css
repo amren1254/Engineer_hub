@@ -1,0 +1,6 @@
+body{
+    background-image: url(../images/pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: 70px,30px;
+    background-color: black;
+}
